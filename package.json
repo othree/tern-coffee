@@ -1,0 +1,17 @@
+{
+    "name": "tern-coffee",
+    "version": "0.0.1",
+    "homepage": "https://github.com/othree/tern-coffee",
+    "repository": "https://github.com/othree/tern-coffee.git",
+    "author": "othree (https://github.com/othree)",
+    "main": "./coffee.js",
+    "keywords": [
+        "tern",
+        "coffee",
+        "coffeescript"
+    ],
+    "dependencies": {
+        "coffee-script": "1.6.1"
+    },
+    "license": "MIT"
+}
