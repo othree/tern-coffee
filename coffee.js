@@ -3,10 +3,10 @@
 (function (mod) {
   "use strict";
   if (typeof exports === "object" && typeof module === "object") {// CommonJS
-    return mod(require("../lib/tern"),
+    return mod(require("tern"),
       require('coffee-script'),
-      require('../node_modules/coffee-script/lib/coffee-script/lexer'),
-      require('../node_modules/coffee-script/lib/coffee-script/parser'));
+      require('./node_modules/coffee-script/lib/coffee-script/lexer'),
+      require('./node_modules/coffee-script/lib/coffee-script/parser'));
   }
   if (typeof define === "function" && define.amd) {// AMD
     return define(["../lib/tern", "coffee-script/extras/coffee-script", "coffee-script/lib/lexer", "coffee-script/lib/parser"], mod);
