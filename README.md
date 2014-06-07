@@ -11,9 +11,14 @@ Tern.js 0.6 and node environment.
 Installation
 ------------
 
-Use npm to install this plugin to global environment.
+Use npm to install this plugin in tern's directory.
 
-    npm install -g tern-coffee
+    npm install tern-coffee
+
+For example, vim user:
+
+    cd ~/.vim/bundle/tern_for_vim
+    npm install tern-coffee
 
 Then you must let your browser enable tern for CoffeeScript files. Vim user
 can install [tern_for_vim_coffee][2]. This is very simple plugin. You must install
