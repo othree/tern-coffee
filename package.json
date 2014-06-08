@@ -13,5 +13,8 @@
     "dependencies": {
         "coffee-script": "1.6.1"
     },
+    "peerDependencies": {
+        "tern": "0.6.2"
+    },
     "license": "MIT"
 }
