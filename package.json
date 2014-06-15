@@ -1,6 +1,7 @@
 {
     "name": "tern-coffee",
     "version": "0.0.3",
+    "description": "Tern for CoffeeScript plugins.",
     "homepage": "https://github.com/othree/tern-coffee",
     "repository": "https://github.com/othree/tern-coffee.git",
     "author": "othree (https://github.com/othree)",
