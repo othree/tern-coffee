@@ -20,7 +20,7 @@ For example, vim user:
     cd ~/.vim/bundle/tern_for_vim
     npm install tern-coffee
 
-Then you must let your browser enable tern for CoffeeScript files. Vim user
+Then you must let your editor enable tern for CoffeeScript files. Vim user
 can install [tern_for_vim_coffee][2]. This is very simple plugin. You must install
 both **tern_for_vim** and **tern_for_vim_coffee**
 
