@@ -35,7 +35,7 @@ How
 
 Marijn [describes][1] how difficult to let tern support a new language. CoffeeScript only have source map support. There is no error tolerance CoffeeScript compiler available. So this is not a perfect solution.
 
-Thw walk around solution is try to fix the editing CoffeeScript file before compile to JavaScript. Ex:
+The walk around solution is try to fix the editing CoffeeScript file before compile to JavaScript. Ex:
 
     obj.
 
