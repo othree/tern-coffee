@@ -1,6 +1,6 @@
 {
     "name": "tern-coffee",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Tern for CoffeeScript plugins.",
     "homepage": "https://github.com/othree/tern-coffee",
     "repository": "https://github.com/othree/tern-coffee.git",
@@ -15,7 +15,7 @@
         "coffee-script": "1.6.1"
     },
     "peerDependencies": {
-        "tern": "0.6.2"
+        "tern": ">0.6.2"
     },
     "license": "MIT"
 }
