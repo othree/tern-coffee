@@ -1,7 +1,7 @@
 Tern for CoffeeScript plugins
 =============================
 
-Use a walk around way to let tern.js play with CoffeeScript.
+Use a work around way to let tern.js play with CoffeeScript.
 
 Requirement
 -----------
